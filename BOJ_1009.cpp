@@ -15,5 +15,4 @@ int main() {
         if(ans == 0) ans = 10;
         cout << ans << endl;
     }
-    return 0;
 }
